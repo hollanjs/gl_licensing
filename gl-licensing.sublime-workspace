@@ -1,0 +1,512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ce",
+				"center"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"template",
+				"Template"
+			],
+			[
+				"data",
+				"dataLength"
+			],
+			[
+				"produc",
+				"productID"
+			],
+			[
+				"r",
+				"routes"
+			],
+			[
+				"mo",
+				"movie	(MovieController.js)"
+			],
+			[
+				"mode",
+				"module	(MovieController.js)"
+			],
+			[
+				"movie",
+				"methodOverride	(index.js)"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"temp",
+				"Template"
+			],
+			[
+				"task",
+				"tasks"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 173.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/gl-licensing"
+	],
+	"file_history":
+	[
+		"/C/projects/Django/tutorial/tutorial/urls.py",
+		"/C/projects/Django/tutorial/polls/admin.py",
+		"/C/projects/Django/tutorial/db.sqlite3",
+		"/C/projects/Django/tutorial/polls/models.py",
+		"/C/projects/Django/tutorial/polls/apps.py",
+		"/C/projects/Django/tutorial/tutorial/settings.py",
+		"/C/projects/Django/tutorial/polls/urls.py",
+		"/C/projects/Django/tutorial/polls/templates/polls/index.html",
+		"/C/projects/Django/tutorial/polls/templates/polls/detail.html",
+		"/C/projects/Django/tutorial/polls/views.py",
+		"/C/projects/Django/tutorial/manage.py",
+		"/C/Users/Josh Hollandsworth/Downloads/RC Starter Design.html",
+		"/Z/ART/Websites/GreenLight Site/Product Line Banners/Hot Pursuit - Copy/wifi-signal-full-1.svg",
+		"/C/Users/Josh Hollandsworth/AppData/Local/Temp/index.html_",
+		"/Z/Shared/Projects/GMP/Product blasts/18811 and 18826/18811 and 18826 pblast - GMP.txt",
+		"/Z/Shared/Projects/GMP/Product blasts/18810/18810 48 left pblast GMP template.txt",
+		"/C/projects/todos/lib/json files/fss-12-10-15.json",
+		"/C/projects/todos/server/server.js",
+		"/C/projects/todos/client/css/todos.css",
+		"/C/projects/todos/lib/notes",
+		"/C/projects/todos/todos-list.ng.html",
+		"/C/projects/todos/lib/collections/todo-collections.js",
+		"/C/projects/todos/client/app.js",
+		"/Z/Shared/Projects/GMP/Product blasts/18812/18812 ACME pblast - v2.html",
+		"/C/projects/todos/lib/json files/fss-11-12-15.json",
+		"/C/projects/todos/todos.html",
+		"/C/projects/todos/todos.css",
+		"/C/projects/todos/todos.sublime-project",
+		"/C/projects/todos/todos.js",
+		"/C/projects/todos/fss-11-11-15.json",
+		"/C/projects/todos/notes",
+		"/C/projects/page-updater/1-43 Page.html",
+		"/C/projects/todos/fss-11-6-15.json",
+		"/C/projects/todos/photo-json-11-6-15.json",
+		"/C/projects/MeteorApps/simple-todos_meteor/simple-todos.js",
+		"/C/projects/MeteorApps/simple-todos_meteor/simple-todos.html",
+		"/C/projects/MeteorApps/simple-todos_meteor/simple-todos.css",
+		"/C/projects/page-updater/code_gen.py",
+		"/C/projects/page-updater/Test-Artisan.html",
+		"/C/projects/page-updater/page_template.html",
+		"/C/projects/stat_funcs/stat_funcs",
+		"/C/Users/Josh Hollandsworth/Desktop/Business Cards",
+		"/C/Users/Josh Hollandsworth/Desktop/test.html",
+		"/C/Users/Josh Hollandsworth/Desktop/product with issue - json response.txt",
+		"/C/projects/mc_checker/test.py",
+		"/C/projects/bottle-test/db_connect.py",
+		"/C/projects/bottle-test/app/templates/home.tpl",
+		"/C/projects/bottle-test/server.py",
+		"/C/projects/bottle-test/app/components/AdminLTE/pages/charts/chartjs.html",
+		"/C/projects/bottle-test/app/components/AdminLTE/pages/examples/blank.html",
+		"/C/projects/bottle-test/app/templates/licensor2.tpl",
+		"/C/projects/bottle-test/venv/Scripts/activate.bat",
+		"/C/projects/bottle-test/app/bower.json",
+		"/C/projects/bottle-test/app/.bowerrc",
+		"/C/projects/bottle-test/Server/venv/Scripts/activate_this.py",
+		"/C/projects/bottle-test/Server/venv/Scripts/activate.ps1",
+		"/C/projects/bottle-test/Server/venv/Scripts/activate.bat",
+		"/C/projects/bottle-test/Server/venv/Scripts/activate",
+		"/C/projects/bottle-test/client/bower.json",
+		"/C/projects/bottle-test/.gitignore",
+		"/C/projects/bottle-test/requirements.txt",
+		"/C/projects/bottle-test/views/licensor.tpl",
+		"/C/projects/bottle-test/views/list.tpl",
+		"/C/Users/Josh Hollandsworth/Desktop/todos and notes",
+		"/C/Users/Josh Hollandsworth/Desktop/social test 1.html",
+		"/C/Users/Josh Hollandsworth/Downloads/steal the social media.html",
+		"/C/Users/Josh Hollandsworth/Desktop/GreenLight Pblast Redesign/v1/GreenLight Pblast Redesign.html",
+		"/C/Users/Josh Hollandsworth/Desktop/GreenLight Pblast Redesign/GreenLight Pblast Redesign.html",
+		"/C/Users/Josh Hollandsworth/Desktop/18810 pblast GMP template.html",
+		"/C/projects/Math/.gitignore",
+		"/C/projects/Math/README.md",
+		"/C/projects/Math/scaling_by_ratio.py",
+		"/C/Users/Josh Hollandsworth/Documents/licensing list.js",
+		"/C/projects/Licensing_Compiler/.gitignore",
+		"/C/projects/Licensing_Compiler/keys.json",
+		"/C/projects/Licensing_Compiler/templates/licensor list",
+		"/C/projects/Licensing_Compiler/templates/index.html",
+		"/C/projects/Licensing_Compiler/index.wsgi",
+		"/C/projects/Licensing_Compiler/templates/base.html",
+		"/C/projects/Licensing_Compiler/server.py",
+		"/C/projects/Licensing_Compiler/index.html",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/server/server.js",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/Bootstrap Theme/index.html",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/client/templates/main.html",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/client/app.html",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/client/app.js",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/client/templates/product.css",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/client/templates/product.html",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/client/app.css",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/client/components/product.js",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/client/components/product.html",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/client/components/product.css",
+		"/C/Users/Josh Hollandsworth/AppData/Roaming/Sublime Text 3/Packages/AlignTab/AlignTab.sublime-settings",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/collections/Product.js",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/client/app.head.html",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/public/notes.txt",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/private/private.txt",
+		"/C/Users/Josh Hollandsworth/AppData/Roaming/Sublime Text 3/Packages/User/Context.sublime-menu",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/private/notes.js",
+		"/C/Users/Josh Hollandsworth/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Josh Hollandsworth/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/server/bootstrap.js",
+		"/C/Users/Josh Hollandsworth/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/.meteor/packages",
+		"/C/Users/Josh Hollandsworth/Desktop/glstore/.gitignore",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/todos.js",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/fss-7-27-15.json",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/.gitignore",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/notes",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/todos-list.ng.html",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/todos.html",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/fss-7-20-15.json",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/fss-7-24-15.json",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/fss-7-17-15.json",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/todos.sublime-project",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/todos.css",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/fss2.json",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/fss.json",
+		"/C/Users/Josh Hollandsworth/Desktop/fss.json",
+		"/C/Users/Josh Hollandsworth/Desktop/todos/templates/todos-list.ng.html",
+		"/C/GitHub/PMS-Hex/package.json",
+		"/C/GitHub/PMS-Hex/server.js",
+		"/C/Users/Josh Hollandsworth/Desktop/Service Fleet & Cavalcade",
+		"/C/Users/Josh Hollandsworth/Documents/GMP pblast Redesign/New Template.html",
+		"/C/Users/Josh Hollandsworth/Desktop/19014 additions.html",
+		"/C/Users/Josh Hollandsworth/Desktop/customer.json",
+		"/Z/Shared/Projects/GMP/Product blasts/18808/18808 pblast - Acme[v1].txt",
+		"/Z/Shared/Projects/GMP/Product blasts/18805/18805 pblast gmp template [last call].html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 157.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"x?search=8644",
+			"%s",
+			"{}\".format(question_id))",
+			"(Flat Artwork",
+			"(Flat Artwork, ",
+			"Racing",
+			"- V",
+			" /",
+			"class=\"banner\"",
+			"</p>",
+			"<p>",
+			"432",
+			"img alt",
+			"- ",
+			"<a",
+			"@greenlighttoys.com",
+			"18%201970%20Plymouth%20Road%20Runner%20Convertible%20-%20In-Violet",
+			"and",
+			"®",
+			"&",
+			"limitTo: 15",
+			"ETA: March 2016",
+			"Solid Pack Currently Sold Out",
+			"Solid Pack Preorder March 2016",
+			" Solid Pack",
+			"The Walking Dead (2010-15 TV Series)",
+			"/16",
+			"29833%20and%2029834",
+			"29833 and 29834 -",
+			"limitTo: 10",
+			"color:#ffffff",
+			"onhold : false",
+			"onHold(task)",
+			"task",
+			"btn-primary",
+			"obtn-lg btn-block",
+			"btn-danger",
+			"<li>{{task.sku}} - {{task.project}}</li>",
+			"btn-inf",
+			"limitTo: 5",
+			"1:18 ",
+			"Artisan Collection",
+			"(",
+			"<span style='color: red;'> - November  2014</span>",
+			"<span style='color: red;",
+			"<span style='color: red;'> - September 2015</span>",
+			"<span style='color: red;'> - October 2015</span>",
+			"<span style='color: red;'> - June 2015</span>",
+			"<span style='color: red;'> - September 2015</span>",
+			"' />       </p> ",
+			"</li>       </ul>       <p>",
+			")       </p>",
+			"</span>       <br />       (",
+			"</h2>       <p>",
+			"<img width='400'",
+			"<td style='width: 50%;'>       <p>",
+			"<td style='width: 50%;'>",
+			"</td>",
+			"<tr>",
+			"</tr>",
+			", ",
+			",",
+			"<h2>1:18 Artisan Collection - ",
+			"<img",
+			"<p><br /><br /><br /><br /></p>",
+			"<li>",
+			")\n    </p>",
+			"<br />\n    (",
+			"<span style='color: red;'>",
+			"</td></tr>",
+			"<td style='width: 50%;'>\n<h2>",
+			"<td style='width: 50%;'>",
+			"   ",
+			"  ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			",",
+			"1K3iZdUxnw_dQlSsIVqK6UFK64cWoX9LD_AqF9EVwMUQ",
+			"] [",
+			"(Flat Artwork, ",
+			" ",
+			"$",
+			"\\n1:64 ",
+			"1:64 ",
+			"Currently Sold Out",
+			"2016\\n",
+			"2016",
+			"- 1:64 Hollywood Series 12",
+			"44720-A - 1:64 Hollywood Series 12",
+			"static/components",
+			"/components",
+			"\\",
+			"/components",
+			"\\",
+			"317-287-0600",
+			"6",
+			"156b1d",
+			", contact",
+			" </",
+			"style=\"color:#676767\">",
+			"676767",
+			"color:#FFF",
+			"color:#ffffff",
+			"background-color: #323232",
+			"class=\"darkgray\"",
+			"#156b1d",
+			" -",
+			"(Flat Artwork, ",
+			"29820",
+			"Vee",
+			" |  ",
+			"\"label label-success\"",
+			"item += \" - ",
+			"update : item",
+			"item +=",
+			"item += ",
+			"id = task._id;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"%20",
+			"background-color: #FFF",
+			"class=\"white\"",
+			"false",
+			"true",
+			"1-",
+			"'",
+			"",
+			" ",
+			"carArtworkToLicensing",
+			"completeCarArtwork",
+			"setLineUp",
+			"\"",
+			"http://www.acmediecast.com/products/details.cfm?ProductNumber=18805&category=1985-1993%20Ford%20Mustang"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gl-licensing.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
